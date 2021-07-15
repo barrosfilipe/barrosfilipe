@@ -1,6 +1,6 @@
 ### Hey, how's it going? 👋
 
-:octocat: Tech Lead at [Hack The Box](https://hackthebox.eu) <br>
+:octocat: Lead Software Engineer at [Hack The Box](https://hackthebox.eu) <br>
 :penguin: Unix-like Style <br>
 :rocket: Space Enthusiast <br>
 :golf: Hackathon Lover <br>
