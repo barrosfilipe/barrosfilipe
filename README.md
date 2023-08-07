@@ -1,6 +1,6 @@
 ### Hey, how's it going? 👋
 
-:octocat: Senior Software Engineer <br>
+:octocat: Senior Back-end Engineer at [Deel](https://www.deel.com/) <br>
 :penguin: Unix-like Style <br>
 :rocket: Space Enthusiast <br>
 :golf: Hackathon Lover <br>
