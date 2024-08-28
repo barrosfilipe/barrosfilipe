@@ -1,6 +1,6 @@
 ### Hey, how's it going? 👋
 
-:octocat: Senior Software Engineer at [Ambush](https://www.getambush.com) <br>
+:octocat: Senior Software Engineer at [Ambush](https://www.getambush.com) in a top-tier crypto exchange <br>
 :penguin: Unix-like Style <br>
 :rocket: Space Enthusiast <br>
 :golf: Hackathon Lover <br>
